@@ -1,5 +1,5 @@
 # Bachelors-Thesis-Marie-Jarisch
-This repository contains the appendix and the example models used in the bachelor's thesis "Connecting BIM with BPM's Conceptual Modeling". The appendix A can be found in [Appendix.pdf](/Appendix.pdf).
+This repository contains the example BIM models and the appendix A including the conducted expert interview from the bachelor's thesis "Connecting BIM with BPM's Conceptual Modeling". The appendix A can be found in [Appendix.pdf](/Appendix.pdf).
 
 The model files with the file extension ".rvt" were modeled in [Revit](https://www.autodesk.de/products/revit/overview?us_oa=dotcom-us&us_si=9553da6f-2ec6-4b25-b536-2ef2b12bdcf9&us_st=revit&us_pt=RVT&term=1-YEAR&tab=subscription&plc=RVT), the files with the file extension".nwf" in [Navisworks Manage](https://www.autodesk.de/products/navisworks/overview?us_oa=dotcom-us&us_si=ba95ec68-33c1-408a-88a8-cf5568061b4f&us_st=Navisworks&us_pt=NAV&plc=NAVMAN&term=1-YEAR&tab=subscription). They are both available for free download through educational access to Autodesk products.
 
